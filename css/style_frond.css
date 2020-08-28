@@ -1,0 +1,47 @@
+.form-suscription{
+    display: flex;
+}
+.form-suscription .btn-counter-2{
+    border-radius: 50% !important;
+    height: 50px;
+    width: 50px;
+    border: none;
+    background: #99a27b;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+    top: 8px;
+    position: relative;
+}
+
+.form-suscription .booking-counter{
+    padding: 10px;
+    color: #6a6a6a;
+    display: block;
+    width: 80px;
+    border-radius: 4px;
+    border: 1px solid #959595;
+    font-size: 16px;
+    margin: 10px;
+    text-align: center;
+}
+
+.btn-suscribe-click{
+    font-size: 16px;
+    padding: 15px 35px !important;
+    background-color: rgb(119, 132, 79);
+    color:#fff;
+    border:0px;
+    cursor: pointer;
+	margin-bottom: 10px;
+}
+
+.add_cart_shooping{
+    font-size: 16px;
+    padding: 15px 35px !important;
+    background-color: rgb(119, 132, 79);
+    color:#fff;
+    border:0px;
+    cursor: pointer;
+	margin-bottom: 10px;
+}
